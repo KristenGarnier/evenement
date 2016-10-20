@@ -1,12 +1,12 @@
 {
-    "name": "evenement/evenement",
+    "name": "kristengwd/evenement",
     "description": "Événement is a very simple event dispatching library for PHP",
     "keywords": ["event-dispatcher", "event-emitter"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Igor Wiedler",
-            "email": "igor@wiedler.ch"
+            "name": "kristen Garnier",
+            "email": "garnier.kristen@icloud.com"
         }
     ],
     "require": {
